@@ -1,6 +1,6 @@
-# Back-end Rocket Movies
+# Back-end Simple Notes
 
-Este e um projeto do back-end do Rocket Notes
+Este e um projeto do back-end do Simple Notes
 
 ## Descrição
 
